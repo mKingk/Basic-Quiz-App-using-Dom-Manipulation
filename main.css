@@ -14,7 +14,7 @@
     }
     
     .main-container {
-    background-color: white;
+    background-color: grey;
     padding: 20px;
     display: flex;
     flex-direction: column;
